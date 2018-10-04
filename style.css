@@ -1,0 +1,35 @@
+.couleur{
+    color: white;
+    
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    }
+   body {
+    background-color: white; 
+    font-family: Verdana, sans-serif; 
+    font-size: 100%;
+    }
+ .table_dess{
+    height: 200px;
+    background-color: #fff; 
+    background-image: linear-gradient(#fff,  #3b599870);
+
+ }   
+ .b_inscript {   
+    background-color:green;
+    padding: 10px 80px; 
+color: white;
+font-size:25px;
+ }
+.pos_mp{
+    color: white;
+ position: relative;
+ width: 500px;
+ height: 200px;
+}
+.b_conx{
+    color: white;
+background-color:blue;
+}
